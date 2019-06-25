@@ -1,0 +1,2 @@
+#imageaddwatermarck
+两张图片重叠输出为一个图片实现，JPG文件增加水印
